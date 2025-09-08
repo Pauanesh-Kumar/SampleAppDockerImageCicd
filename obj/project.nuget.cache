@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltddidnKhYc=",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio 2022 projects and Apps\\SampleAppDockerImageCiCdLinux\\SampleAppDockerImageCiCdLinux\\SampleAppDockerImageCiCdLinux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
